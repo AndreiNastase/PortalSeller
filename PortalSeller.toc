@@ -1,0 +1,7 @@
+## Interface: 30400
+## Title: PortalSeller
+## Notes: A portal mage's best friend
+## Author: Padurica-Gehennas(EU)
+## Version: 1.0.0
+
+Core.lua
